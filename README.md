@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snawaza243
-👀 I’m interested in AI, UI
-- 🌱 I’m currently practicing React
-- 💞️ I’m looking to freelance
+- 👀 I’m looking to freelance
+- 🌱 I’m working on React
+- 💞️ Love to share the experience
 - 📫 SocialMedia/@snawaza243
 
 <!---
