@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snawaza243
 - 👀 I’m looking to freelance
-- 🌱 I’m working on React
+- 🌱 I’m working with React
 - 💞️ Love to share the experience
 - 📫 SocialMedia/@snawaza243
 
