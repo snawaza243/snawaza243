@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @snawaza243
-- 👀 I’m looking to freelance
-- 🌱 I’m working with React
-- 💞️ Love to share the experience
-- 📫 SocialMedia/@snawaza243
 
 <!---
 snawaza243/snawaza243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +8,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>   
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></br>
+ 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -24,20 +21,23 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>  :man_technologist: About Me : 
 
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @snawaza243
+- :eyes: I’m looking to freelance
+- :maple_leaf: I’m working with React
+- :revolving_heart:Love to share the experience
+- 📫 SocialMedia/@snawaza243
+- :telescope: I’m working and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://ca.linkedin.com/in/snawaza243)
  ### :hammer_and_wrench: Languages and Tools :
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -59,13 +59,7 @@ You can click the Preview link to take a look at your changes.
 
  ### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
-
 ### :writing_hand: Blog Posts :
-
-
