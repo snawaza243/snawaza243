@@ -65,11 +65,11 @@ You can click the Preview link to take a look at your changes.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+ <!--
  <a href="https://github.com/snawaza243">
  <img align="center" src="https://camo.githubusercontent.com/3dbe2a8968d51d719efb5ba388c96814dc8fc911f8a787b8ba2b1839ea86f67c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6261726f6e73696e646f2673686f775f69636f6e733d74727565267468656d653d6c69676874266c696e655f6865696768743d3237" alt="shahnawaz's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=snawaza243&amp;show_icons=true&amp;theme=dark&amp;line_height=27" style="max-width: 100%;">
 </a>
- 
+ -->
 
 ---
 Live Demo Projects
