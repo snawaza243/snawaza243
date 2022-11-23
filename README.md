@@ -77,11 +77,11 @@ Live Demo Projects
 -   <a href="https://snawaza243.github.io/pf1/">Portfolio 1 | HTML, CSS, JavaScript</a>
 -   <a href="https://snawaza243.github.io/pf2/">Portfolio 2 | HTML, CSS, JavaScript</a>
 -   <a href="https://snawaza243.github.io/pf3/">Portfolio 3 | ReactJS</a>
--   <a href="https://snawaza243.github.io/sam-counter-app/">Counter App | ReactJS, Stateless-Hooks</a>
--   <a href="https://snawaza243.github.io/sam-counterr-app/">Counter App | ReactJS, Stateless-Hooks (useEffect)</a>
--   <a href="https://snawaza243.github.io/sam-counters-app/">Counter App | ReactJS, Stateful</a>
--   <a href="https://snawaza243.github.io/sam-todo-app/">Todo App | ReactJS, Stateless-Hooks</a>
--   <a href="https://snawaza243.github.io/sam-blog-app/">Blog App | ReactJS, Stateless-Hooks</a>
+-   <a href="https://snawaza243.github.io/react-state-counter/">Counter App | ReactJS, Stateful</a>
+-   <a href="https://snawaza243.github.io/react-fun-counter/">Counter App | ReactJS, Stateless-Hooks</a>
+-   <a href="https://snawaza243.github.io/react-efun-app/">Counter App | ReactJS, Stateless-Hooks (useEffect)</a>
+-   <a href="https://snawaza243.github.io/react-todo-app/">Todo App | ReactJS, Stateless-Hooks</a>
+-   <a href="https://snawaza243.github.io/react-blog-app/">Blog App | ReactJS, Stateless-Hooks</a>
 
 ---
 ### :writing_hand: Blog Posts :
