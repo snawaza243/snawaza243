@@ -2,8 +2,17 @@
 <!---
 snawaza243/snawaza243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+different stats theme dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=demo)](https://github.com/snawaza243/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact)](https://github.com/snawaza243/github-readme-stats)
 
+most used language: 
+--->
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact)](https://github.com/snawaza243/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snawaza243)](https://github.com/snawaza243/github-readme-stats)
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>   
@@ -61,9 +70,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=dark&background=000000)](https://git.io/streak-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
  
  
  <!--
