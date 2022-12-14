@@ -69,10 +69,10 @@ most used language:
 </div>
 
  ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=tokyonight)](https://github.com/snawaza243/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snawaza243&theme=tokyonight&repo=github-readme-stats)](https://github.com/snawaza243/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
  
