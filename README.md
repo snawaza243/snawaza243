@@ -1,27 +1,27 @@
-
-<!---
-snawaza243/snawaza243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-different stats theme dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=demo)](https://github.com/snawaza243/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact)](https://github.com/snawaza243/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snawaza243)](https://github.com/snawaza243/github-readme-stats)
-
-most used language: 
---->
- 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS --> 
 
 
- <div id="header" align="center">
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>   
 
+
+
+
 <div id="badges" align="center">
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+our+GitHub+world;Explore+and+get+)](https://git.io/typing-svg)
+ 
+ 
  
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/snawaza243) 
  [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/snawaza243)
- [![Linkedin Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/indiantechnoera)
-
+ [![Linkedin Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/indiantechnoera) 
+ 
+ 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -97,7 +97,7 @@ Live Demo Projects
 ---
 ### :writing_hand: Blog Posts :
 - <a href="https://www.indiantechnoera.in">www.indiantechnoera.in</a>
-- [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)](www.indiantechnoera.in) 
+- [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ite)](www.indiantechnoera.in) 
 -   <a href="https://www.codesam.in">www.codesam.in</a>
 -   
 
