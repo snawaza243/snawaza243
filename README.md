@@ -96,5 +96,8 @@ Live Demo Projects
 
 ---
 ### :writing_hand: Blog Posts :
--   <a href="https://www.indiantechnoera.in">www.indiantechnoera.in</a>
+- <a href="https://www.indiantechnoera.in">www.indiantechnoera.in</a>
+- [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)](www.indiantechnoera.in) 
 -   <a href="https://www.codesam.in">www.codesam.in</a>
+-   
+
