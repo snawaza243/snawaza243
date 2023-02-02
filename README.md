@@ -8,7 +8,7 @@
 </div>   
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="200" />
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="150" />
 </div>  
 
 
@@ -17,7 +17,7 @@
 <div id="badges" align="center">
  
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+our+GitHub+world;Explore+and+get+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+our+GitHub+world;Explore+more+and+get+more+)](https://git.io/typing-svg)
  
  
  
