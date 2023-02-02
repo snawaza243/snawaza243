@@ -4,8 +4,12 @@
 
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/91892524?v=4" width="100"/>
+  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="50" height="50"/>
 </div>   
+
+<div id="header" align="center">
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="200" />
+</div>  
 
 
 
@@ -25,14 +29,16 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+ 
+
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
-<div align="center">
-  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif width="600" />
-</div>  :man_technologist: About Me : 
+
+                                                                                                             
+:man_technologist: About Me : 
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Shahnawaz
 - :computer: A frontend developer
