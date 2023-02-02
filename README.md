@@ -16,11 +16,8 @@
 
 <div id="badges" align="center">
  
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+our+GitHub+world;Explore+more+and+get+more+)](https://git.io/typing-svg)
- 
- 
- 
+  
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/snawaza243) 
  [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/snawaza243)
  [![Linkedin Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/indiantechnoera) 
@@ -31,14 +28,16 @@
 
  
 
-<h1>
+<h2>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h1>
+</h2>
 
 
-                                                                                                             
+                                                                                                  <h3>           
 :man_technologist: About Me : 
+</h3>
+
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Shahnawaz
 - :computer: A frontend developer
@@ -80,14 +79,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-
- 
- 
- <!--
- <a href="https://github.com/snawaza243">
- <img align="center" src="https://camo.githubusercontent.com/3dbe2a8968d51d719efb5ba388c96814dc8fc911f8a787b8ba2b1839ea86f67c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6261726f6e73696e646f2673686f775f69636f6e733d74727565267468656d653d6c69676874266c696e655f6865696768743d3237" alt="shahnawaz's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=snawaza243&amp;show_icons=true&amp;theme=dark&amp;line_height=27" style="max-width: 100%;">
-</a>
- -->
 
 ---
 Live Demo Projects
