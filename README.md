@@ -4,11 +4,11 @@
 
 
 <div id="header" align="center">
-  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="50" height="50"/>
+  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="40" height="50"/>
 </div>   
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="150" />
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="160" />
 </div>  
 
 
@@ -31,7 +31,6 @@
 
 :man_technologist: About Me : 
 ---
-
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> Hi, I’m Shahnawaz
 - :computer: A Web developer
 - :eyes: I’m looking to freelance
@@ -41,15 +40,14 @@
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode and read tech articles.
 
- ### :hammer_and_wrench: Languages and Tools :
- ---
- 
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C==" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+:hammer_and_wrench: Languages and Tools :
+---
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C==" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -93,3 +91,5 @@ Live Demo Projects
 -   <a href="https://www.codesam.in">www.codesam.in</a>
 -   
 
+
+### 
