@@ -26,21 +26,14 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
- 
-
-<h2>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h2>
 
 
-                                                                                                  <h3>           
+
 :man_technologist: About Me : 
-</h3>
+---
 
-
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Shahnawaz
-- :computer: A frontend developer
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> Hi, I’m Shahnawaz
+- :computer: A Web developer
 - :eyes: I’m looking to freelance
 - :maple_leaf: I’m working with React projects
 - :revolving_hearts:Love to share the experience
@@ -49,6 +42,8 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode and read tech articles.
 
  ### :hammer_and_wrench: Languages and Tools :
+ ---
+ 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C==" width="40" height="40"/>&nbsp;
