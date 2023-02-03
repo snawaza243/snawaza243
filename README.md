@@ -1,14 +1,10 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS --> 
-
-
-
-<div id="header" align="center">
-  <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="40" height="50"/>
-</div>   
+  
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="160" />
+  
 </div>  
 
 
@@ -22,11 +18,10 @@
  [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/snawaza243)
  [![Linkedin Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/indiantechnoera) 
  
+
  
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-
-
 
 
 :man_technologist: About Me : 
@@ -40,56 +35,50 @@
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode and read tech articles.
 
-:hammer_and_wrench: Languages and Tools :
+<img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="20" height="25"/> Languages and Tools :
 ---
 <div> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C==" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
- 
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python&theme=light)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,materialui)](https://skills.thijs.gg)
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,express,mysql,mongodb,aws,firebase)](https://skills.thijs.gg)
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=xd,arduino,git,github,gatsby)](https://skills.thijs.gg)<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
- ### :fire: My Stats :
+
+
+
+<img src="https://media.baamboozle.com/uploads/images/515066/1672495100_159072_gif-url.gif" width="30" height="35"/> My Stats :
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=tokyonight)](https://github.com/snawaza243/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
----
-Live Demo Projects
--   <a href="https://snawaza243.github.io/pf1/">Portfolio 1 | HTML, CSS, JavaScript</a>
--   <a href="https://snawaza243.github.io/pf2/">Portfolio 2 | HTML, CSS, JavaScript</a>
--   <a href="https://snawaza243.github.io/pf3/">Portfolio 3 | ReactJS</a>
--   <a href="https://snawaza243.github.io/react-state-counter/">Counter App | ReactJS, Stateful</a>
--   <a href="https://snawaza243.github.io/react-fun-counter/">Counter App | ReactJS, Stateless-Hooks</a>
--   <a href="https://snawaza243.github.io/react-efun-app/">Counter App | ReactJS, Stateless-Hooks (useEffect)</a>
--   <a href="https://snawaza243.github.io/react-todo-app/">Todo App | ReactJS, Stateless-Hooks</a>
--   <a href="https://snawaza243.github.io/react-blog-app/">Blog App | ReactJS, Stateless-Hooks</a>
 
+<img style="margin:-200;" src="https://cdn3.emoji.gg/emojis/blinkingeyes_4544.gif" width="25" /> Live Demo:
 ---
-### :writing_hand: Blog Posts :
+-   <a href="https://snawaza243.github.io/pf1/">Demo Portfolio 1</a>
+-   <a href="https://snawaza243.github.io/pf2/">Demo Portfolio 2</a>
+-   <a href="https://snawaza243.github.io/pf3/">Demo Portfolio 3</a>
+-   <a href="https://snawaza243.github.io/react-state-counter/">ReactJS based counter app</a>
+-   <a href="https://snawaza243.github.io/react-todo-app/">React based Todo App </a>
+-   <a href="https://snawaza243.github.io/react-blog-app/">React based Blog App</a>
+
+:writing_hand: Blog Posts :
+---
 - <a href="https://www.indiantechnoera.in">www.indiantechnoera.in</a>
 - [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ite)](www.indiantechnoera.in) 
--   <a href="https://www.codesam.in">www.codesam.in</a>
--   
+-   <a href="https://www.codesam.in">www.codesam.in</a> 
 
-
-### 
+<p align="center">................................................................</p>
