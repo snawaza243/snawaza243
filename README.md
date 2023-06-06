@@ -75,7 +75,7 @@
 -   <a href="https://snawaza243.github.io/react-state-counter/">Couter Web App</a>
 -   <a href="https://snawaza243.github.io/react-todo-app/">Todo Web App</a>
 -   <a href="https://snawaza243.github.io/react-blog-app/">Story Share Blog</a>
--   <a href="https://github.com/snawaza243/hostelbazaar">Story Share Blog</a>
+-   <a href="https://github.com/snawaza243/hostelbazaar">Hostel Bazar</a>
 -   <a href="https://github.com/snawaza243/react-netflix-clone">Video Streaming Web Desgin</a>
 -   <a href="https://github.com/snawaza243/news-feed">News Feed</a>
 -   <a href="https://github.com/snawaza243/MediaPad">MediaPad Desktop Application</a>
