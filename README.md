@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+our+GitHub+world;Explore+more+and+get+more+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16C5F7&center=true&width=435&lines=Welcome+to+My+GitHub+world;Explore+more+and+get+more+)](https://git.io/typing-svg)
   
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://ca.linkedin.com/in/snawaza243) 
  [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/snawaza243)
