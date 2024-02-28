@@ -1,12 +1,6 @@
-
-  
-
 <div id="header" align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="160" />
-  
 </div>  
-
-
 
 
 <div id="badges" align="center">
@@ -35,6 +29,10 @@ I'm a passionate Full-Stack Developer with a solid foundation in various program
 - 📝 Adept at Technical Content Writing, sharing insights and knowledge to inspire and educate others.
 - ⚡ In my free time, I enjoy tackling algorithmic challenges on platforms like GeeksforGeeks and LeetCode, and keeping abreast of the latest tech trends through articles and blogs.
 
+
+<br/>
+
+
 <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="20" height="25"/> Languages and Tools :
 ---
 <div> 
@@ -56,6 +54,9 @@ I'm a passionate Full-Stack Developer with a solid foundation in various program
 
 
 
+<br/>
+
+
 
 <img src="https://media.baamboozle.com/uploads/images/515066/1672495100_159072_gif-url.gif" width="30" height="35"/> My Stats :
 ---
@@ -69,26 +70,52 @@ I'm a passionate Full-Stack Developer with a solid foundation in various program
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
+<br/>
 
-<img style="margin:-200;" src="https://cdn3.emoji.gg/emojis/blinkingeyes_4544.gif" width="25" /> Goto Projects:
----
--   <a href="https://github.com/snawaza243/react-portfolio">My Portfolio</a>
--   <a href="https://github.com/snawaza243/portfolio">Portfolio Design 1</a>
--   <a href="https://github.com/snawaza243/portfolio-design-2">Portfolio Design 2</a>
--   <a href="https://snawaza243.github.io/portfolio-design-1">Portfolio Design 3</a>
--   <a href="https://snawaza243.github.io/react-state-counter/">Couter Web App</a>
--   <a href="https://snawaza243.github.io/react-todo-app/">Todo Web App</a>
--   <a href="https://snawaza243.github.io/react-blog-app/">Story Share Blog</a>
--   <a href="https://github.com/snawaza243/hostelbazaar">Hostel Bazar</a>
--   <a href="https://github.com/snawaza243/react-netflix-clone">Video Streaming Web Desgin</a>
--   <a href="https://github.com/snawaza243/news-feed">News Feed</a>
--   <a href="https://github.com/snawaza243/MediaPad">MediaPad Desktop Application</a>
--   <a href="https://github.com/snawaza243/pydataview">Data Visual Desktop Application</a>
 
-:writing_hand: Blog Posts :
+
+<img style="margin:-200;" src="https://cdn3.emoji.gg/emojis/blinkingeyes_4544.gif" width="25" /> Check Out My Projects! 🚀:
 ---
-- <a href="https://www.indiantechnoera.in">www.indiantechnoera.in</a>
-- [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ite)](www.indiantechnoera.in) 
--   <a href="https://www.codesam.in">www.codesam.in</a> 
+
+### Welcome to My Portfolio!
+
+Explore my collection of projects and creations:
+
+- [**My Portfolio**](https://github.com/snawaza243/react-portfolio): Your gateway to discovering my skills and experiences.
+- [**Portfolio Design 1**](https://github.com/snawaza243/portfolio): A sleek and modern take on showcasing your work.
+- [**Portfolio Design 2**](https://github.com/snawaza243/portfolio-design-2): An innovative approach to presenting your portfolio.
+- [**Portfolio Design 3**](https://snawaza243.github.io/portfolio-design-1): Experience a fresh perspective with this dynamic design.
+
+### Web Applications:
+
+- [**Counter Web App**](https://snawaza243.github.io/react-state-counter/): Keep track of things with this interactive counter.
+- [**Todo Web App**](https://snawaza243.github.io/react-todo-app/): Organize your tasks effortlessly with this intuitive todo app.
+- [**Story Share Blog**](https://snawaza243.github.io/react-blog-app/): Dive into the world of storytelling and sharing.
+
+### Web Designs & Tools:
+
+- [**Hostel Bazaar**](https://github.com/snawaza243/hostelbazaar): Explore the possibilities of a streamlined hostel management system.
+- [**Video Streaming Web Design**](https://github.com/snawaza243/react-netflix-clone): Elevate your streaming experience with this captivating design.
+- [**News Feed**](https://github.com/snawaza243/news-feed): Stay informed and connected with the latest news updates.
+
+### Desktop Applications:
+
+- [**MediaPad**](https://github.com/snawaza243/MediaPad): Your digital workspace for media management and creation.
+- [**Data Visual Desktop Application**](https://github.com/snawaza243/pydataview): Visualize data like never before with this powerful desktop tool.
+
+
+
+
+<br/>
+
+
+
+### :writing_hand: Visit Portfolio / Blog Posts:
+Explore more about me and my writings:
+- [**CodeSam**](https://www.codesam.in): Unlock the world of coding and development with practical tips and tutorials.
+- [**IndianTechnoEra**](https://www.indiantechnoera.in): Dive into insightful articles and tech discussions.
+- [![ITE Badge](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ite)](www.indiantechnoera.in): Discover the latest in technology and innovation.
+
+ 
 
 <p align="center">................................................................</p>
