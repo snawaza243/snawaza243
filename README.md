@@ -26,31 +26,32 @@
 :man_technologist: About Me : 
 ---
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> Hi, I’m Shahnawaz
-- :computer: A Web developer
-- :eyes: I’m looking to freelance
-- :maple_leaf: I’m working with React projects
-- :revolving_hearts:Love to share the experience
-- :telescope: I’m working and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode and read tech articles.
+I'm a passionate Full-Stack Developer with a solid foundation in various programming languages and technologies. Here's a glimpse into my world:
+
+- 💻 Proficient in C/C++, and Java.
+- 🌐 Experienced in building dynamic web applications from both frontend and backend perspectives.
+- 🚀 Skilled in React for crafting engaging user interfaces and Node.js for scalable backend solutions.
+- 💼 Actively seeking freelance opportunities to apply my expertise and contribute to innovative projects.
+- 📝 Adept at Technical Content Writing, sharing insights and knowledge to inspire and educate others.
+- ⚡ In my free time, I enjoy tackling algorithmic challenges on platforms like GeeksforGeeks and LeetCode, and keeping abreast of the latest tech trends through articles and blogs.
 
 <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="20" height="25"/> Languages and Tools :
 ---
 <div> 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light)](https://skillicons.dev)
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,materialui)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,sass,styledcomponents,materialui)](https://skills.thijs.gg)
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,express,mysql,mongodb,aws,firebase)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,nextjs,express,php,laravel,mysql,mongodb,aws,firebase)](https://skills.thijs.gg)
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=xd,arduino,git,github,gatsby)](https://skills.thijs.gg)<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+[![My Skills](https://skills.thijs.gg/icons?i=xd,arduino,git,github,npm,androidstudio,docker,eclipse,vscode,visualstudio)](https://skills.thijs.gg)<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
 </div>
 
 
@@ -58,9 +59,13 @@
 
 <img src="https://media.baamboozle.com/uploads/images/515066/1672495100_159072_gif-url.gif" width="30" height="35"/> My Stats :
 ---
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=tokyonight)](https://github.com/snawaza243/github-readme-stats)
+
+![Shahnawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=tokyonight)](https://github.com/snawaza243/github-readme-stats)
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=tokyonight)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snawaza243&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 
