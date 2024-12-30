@@ -24,7 +24,7 @@
 ## :man_technologist: About Me
 
 - Hi, I’m Shahnawaz. I'm a passionate Full-Stack Developer with a solid foundation in various programming languages and technologies.
-- 💻 Proficient in C/C++, and Java.
+- 💻 Proficient in C/C++, C#, and Java.
 - 🌐 Experienced in building dynamic web applications from both frontend and backend perspectives.
 - 🚀 Skilled in React for crafting engaging user interfaces and Node.js for scalable backend solutions.
 - 💼 Actively seeking freelance opportunities to apply my expertise and contribute to innovative projects.
