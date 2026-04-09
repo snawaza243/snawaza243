@@ -95,15 +95,11 @@
 
 ## :rocket: Check Out My Projects!
 
-### Welcome to My Portfolio!
-
+ 
 Explore my collection of projects and creations:
 
-- [**My Portfolio**](https://github.com/snawaza243/react-portfolio): Your gateway to discovering my skills and experiences.
-- [**Portfolio Design 1**](https://github.com/snawaza243/portfolio): A sleek and modern take on showcasing your work.
-- [**Portfolio Design 2**](https://github.com/snawaza243/portfolio-design-2): An innovative approach to presenting your portfolio.
-- [**Portfolio Design 3**](https://snawaza243.github.io/portfolio-design-1): Experience a fresh perspective with this dynamic design.
-
+- [**My Portfolio**](https://snawaza243.github.io/portfolio/)
+ 
 ### Web Applications:
 
 - [**Counter Web App**](https://snawaza243.github.io/react-state-counter/): Keep track of things with this interactive counter.
