@@ -267,12 +267,17 @@ Backend-owned microservices architecture with authentication, service routing, a
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snawaza243/snawaza243/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/snawaza243/snawaza243/output/github-contribution-grid-snake.svg"/>
-</picture>
 
-<sub>🐍 Snake animation renders once the <code>snk</code> GitHub Action is enabled on this repo</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/snawaza243/snawaza243/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/snawaza243/snawaza243/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
