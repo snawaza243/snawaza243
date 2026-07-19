@@ -248,12 +248,25 @@ Backend-owned microservices architecture with authentication, service routing, a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snawaza243&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snawaza243&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&text_color=c9d1d9"/>
+<!-- Streak Stats -->
+<img width="60%" src="https://streak-stats.demolab.com?user=snawaza243&theme=radical&hide_border=true&background=0D1117&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snawaza243&theme=radical&hide_border=true&background=0d1117&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF"/>
+<!-- Profile Summary -->
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snawaza243&theme=radical"/>
+
+<br><br>
+
+<!-- Stats Row -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snawaza243&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snawaza243&theme=radical"/>
+
+<br>
+
+<!-- Bottom Row -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snawaza243&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snawaza243&theme=radical&utcOffset=5.5"/>
 
 </div>
 
