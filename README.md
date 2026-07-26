@@ -296,13 +296,13 @@ Backend-owned microservices architecture with authentication, service routing, a
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:8A63FF,100:302B63&height=3&section=header)
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snawaza243&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
+<p align="center">
+  <img src="https://your-domain.com/pull-shark.png" width="90"/>
+  <img src="https://your-domain.com/yolo.png" width="90"/>
+  <img src="https://your-domain.com/quickdraw.png" width="90"/>
+</p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:8A63FF&height=3&section=header)
 
